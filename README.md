@@ -1,7 +1,7 @@
-# ExpressVPN Digital Security Lab  
-## Location Tracker App Investigation
+# ExpressVPN Digital Security Lab
+## Investigation Xoth: Location Trackers
 
-This repository contains the results of a January 2021 investigation into Android apps that contain location tracker SDKs. This research was conducted by Sean O'Brien of the [ExpressVPN Digital Security Lab](https://expressvpn.com/digital-security-lab) with the aid of Esther Onfroy of the [Defensive Lab Agency](https://defensive-lab.agency). Findings are described on [our website](https://expressvpn.com/digital-security-lab).
+This repository contains the results of a January 2021 investigation into Android apps that contain location tracker Software Development Kits (SDKs). We call this effort "Investigation Xoth." This research was conducted by Sean O'Brien of the [ExpressVPN Digital Security Lab](https://expressvpn.com/digital-security-lab) with the aid of Esther Onfroy of the [Defensive Lab Agency](https://defensive-lab.agency). Findings are described on [our website](https://expressvpn.com/digital-security-lab/investigation-xoth).
 
 We encourage users to independently validate the investigation results. This information is released for consumer awareness only and should be interpreted by security professionals.
 
